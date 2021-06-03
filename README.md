@@ -1,4 +1,4 @@
-<a href="https://hugovandergeest.nl/cv/index.html">![Alt Text](https://github.com/HugovanderGeest/HugovanderGeest/blob/main/hugo.gif)</a>
+<a href="https://hugovandergeest.nl/cv/index.html">![Alt Text](https://github.com/HugovanderGeest/HugovanderGeest/blob/main/video.gif)</a>
 <!--
 **HugovanderGeest/HugovanderGeest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
